@@ -1,0 +1,15 @@
+C:\temp\projetos\CompositionExec\CompositionExec\obj\Debug\net7.0\CompositionExec.csproj.AssemblyReference.cache
+C:\temp\projetos\CompositionExec\CompositionExec\obj\Debug\net7.0\CompositionExec.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\CompositionExec\CompositionExec\obj\Debug\net7.0\CompositionExec.AssemblyInfoInputs.cache
+C:\temp\projetos\CompositionExec\CompositionExec\obj\Debug\net7.0\CompositionExec.AssemblyInfo.cs
+C:\temp\projetos\CompositionExec\CompositionExec\obj\Debug\net7.0\CompositionExec.csproj.CoreCompileInputs.cache
+C:\temp\projetos\CompositionExec\CompositionExec\bin\Debug\net7.0\CompositionExec.exe
+C:\temp\projetos\CompositionExec\CompositionExec\bin\Debug\net7.0\CompositionExec.deps.json
+C:\temp\projetos\CompositionExec\CompositionExec\bin\Debug\net7.0\CompositionExec.runtimeconfig.json
+C:\temp\projetos\CompositionExec\CompositionExec\bin\Debug\net7.0\CompositionExec.dll
+C:\temp\projetos\CompositionExec\CompositionExec\bin\Debug\net7.0\CompositionExec.pdb
+C:\temp\projetos\CompositionExec\CompositionExec\obj\Debug\net7.0\CompositionExec.dll
+C:\temp\projetos\CompositionExec\CompositionExec\obj\Debug\net7.0\refint\CompositionExec.dll
+C:\temp\projetos\CompositionExec\CompositionExec\obj\Debug\net7.0\CompositionExec.pdb
+C:\temp\projetos\CompositionExec\CompositionExec\obj\Debug\net7.0\CompositionExec.genruntimeconfig.cache
+C:\temp\projetos\CompositionExec\CompositionExec\obj\Debug\net7.0\ref\CompositionExec.dll
